@@ -19,8 +19,8 @@
                             <div class="row">
 
                                 <div class="col-lg-7">
-                                    <h5 class="mb-3"><a href="#!" class="text-body"><i
-                                                class="fas fa-long-arrow-alt-left me-2" href="http://127.0.0.1:8000"></i>Continue shopping</a></h5>
+                                    <h5 class="mb-3"><a href="http://127.0.0.1:8000/" class="text-body"><i
+                                                class="fas fa-long-arrow-alt-left me-2" href="http://127.0.0.1:8000/"></i>Continue shopping</a></h5>
                                     <hr>
 
                                     <div class="d-flex justify-content-between align-items-center mb-4">
